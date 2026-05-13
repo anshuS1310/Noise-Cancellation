@@ -1,0 +1,7 @@
+customtkinter
+sounddevice
+numpy
+torch
+torchvision
+torchaudio
+denoiser
